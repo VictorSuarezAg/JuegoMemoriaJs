@@ -1,0 +1,16 @@
+.tablero{
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    height: 800px;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.titulo, .p{
+    text-align: center;
+}
+
+img {
+    width: calc(100% / 4);
+}
